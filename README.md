@@ -65,9 +65,9 @@ The chatbot can answer questions of types such as:
 
 ## Security Measures
 
-1. **Input Sanitization**: All user inputs are sanitized to prevent XSS attacks
-2. **Type Safety**: TypeScript implementation ensures type safety across the application
-3. **Error Handling**: Comprehensive error handling with user-friendly error messages
+
+1. **Type Safety**: TypeScript implementation ensures type safety across the application
+2. **Error Handling**: Comprehensive error handling with user-friendly error messages
 
 
 
